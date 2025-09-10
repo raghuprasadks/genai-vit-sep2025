@@ -1,0 +1,78 @@
+Agenda:
+1. Interfacing with llm's using API's
+Application Programming Interface(API)
+aadhar api
+url - uniform resource locator
+webservice
+api.aadhar.com/aadhar=<aadharnumber>
+response
+
+front end - backend
+
+web,mobile,chatbot
+python - flask,django
+java - spring,springboot
+js - node.js
+
+library -
+classes-methods
+
+command line
+UI
+json - Java Script Object Notation
+Key : value pair dictionary
+2. Interfacing with Cohere
+https://cohere.com/
+Sign Up
+api key
+
+yGlhFfYaems7Qn25x5DYVa2eS4NiLz6Bzuh5aXyc
+3. Sign Up with cohere and create api key
+4. Build a chatbot using cohere
+
+create genai folder
+inside create coheredemo folder
+type cmd in address bar
+in command prompt or terminal
+code .
+open coheredemo in vs code
+open terminal and create virtual environment
+python -m venv venv
+
+activate virtual environment
+.\venv\Scrips\activate
+pip install cohere
+
+Steamlit
+
+pip install streamlit
+
+streamlit run 3-cohere-streamlit.py
+
+streamlit.io
+
+AN session
+1. Embedding
+
+who are you
+tokens
+embedding
+who - [0.8,0.9,1.1,1.3]
+are - 
+you 
+
+
+
+
+
+5. Exploring various features of llms
+
+6. Huggingface
+
+https://huggingface.co/
+models
+datasets
+spacers
+translator
+virtual tryon
+

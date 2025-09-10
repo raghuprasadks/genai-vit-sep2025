@@ -1,0 +1,116 @@
+Agenda:
+1. Introduction to AI
+2. Applications of AI
+3. Types of AI
+ml,deep learning
+super,unsuper,reinforcement
+classification
+regression
+feature-
+generative ai
+ANN - Artificial Neural Network
+CNN - Convolutional Neural Network
+RNN - Recurrent Neural Network
+
+
+www.kaushalya.tech
+git
+repositories
+
+https://github.com/raghuprasadks/genai-vit-sep2025
+git 
+
+Machine learning -
+
+pandas
+dataframe,series
+numpy 
+matplotlib
+scikit-learn
+deep learning
+tensorflow
+pytorch
+
+google colab
+
+2. classification
+
+steps :
+1. Open new notebook
+2. Click on gemini
+3. Prompt engineering
+
+Generate code for ann classification program
+use publicly available dataset
+
+zero shot
+1. explain neural network
+
+Application using llm
+Step 1 - prompt engineering
+Step 2 - connect to api
+Step 3 - get result
+Step 4 - display result
+ekaushalya
+
+1. Customized chatbot
+train on custom data
+pick answer from custom data
+pass it to llm
+compile result 
+
+transformer architecture
+Generative ai
+chatgpt
+tell me about large language model
+step 1 - convert text into words/token
+tell - 1 - tokenization
+me - 2
+about - 3
+large - 4
+language - 5
+model - 6
+
+Embedding
+converting text into a vector
+
+Ashoka was a great king
+
+king - 
+is man  - .9
+is strong .8
+is kind - .2
+is cruel - .9
+is helpful - .2
+is people centric - .1
+[.9,.8,.2,.9,.2]
+
+A cat chased a ball.It is unable to
+catch it
+
+2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

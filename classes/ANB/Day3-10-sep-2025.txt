@@ -1,0 +1,114 @@
+Recap:
+1. LLM Programs
+Embeddings
+Embedding space
+Draw graph to represent embedding
+2. Huggingface
+Models,tasks,datasets and spacers
+transformers - transformer
+https://huggingface.co/
+
+llm - sarvam
+
+spacer - is a place for deploying your application
+
+1. create projects folder
+2. create languagetranslator inside projects
+3. download all the files from the spacer
+https://huggingface.co/spaces/UNESCO/nllb
+into languagetranslator folder
+4. Sign up and login to huggingface
+5. click on spacers -> new space
+sirmvitgenaitranslator
+
+
+streamlit run app.py
+python app.py
+6. Create and deploy a chatbot
+search for 
+sirmvitgenaichatbot
+in spacers
+https://huggingface.co/spaces/raghuprasadks/sirmvitgenaitranslator
+
+https://huggingface.co/spaces/raghuprasadks/sirmvitgenaichatbot
+download two files app.py requirements.txt
+under chatbot folder of projects
+projects/chatbot
+to run this locally
+create virtual environment under chatbot folder
+python -m venv venv
+activate virtual environment
+.\venv\Scripts\activate
+pip install -r requirements.txt
+to the run the program
+python app.py
+you get a url
+click on that url
+check it works locally 
+
+
+and deploy on spacers
+login to huggingface.io
+click on spacers 
+click on new spacers
+
+
+Retrieval-Augmented Generation (RAG)
+vector database
+Langchain
+
+who are you
+convert into a token
+tokenization
+
+who
+are
+you
+
+numbers
+The - 1
+are - 2
+you - 3
+who - 20
+vector - [.8,.9,1.1]
+
+
+1.download files from chromadbdemo from the git
+2. create chromadbdemo folder
+3. create and activate virtual environment
+python -m venv venv
+.\venv\Scripts\activate
+4. pip install chromadb
+5. python chromadbcommands.py
+6. python persistantclient.py
+by default it creates a chroma folder and stores data in it
+7. copy content of aboutus from your college website
+to create a word document and convert it into pdf
+8. Install following libraries
+pip install cohere PyPDF2
+9. in chromapdf.py
+update pdf path
+pdf_path = "sirmvitaboutus.pdf"
+10 run the program
+from dotenv import load_dotenv
+python chrompdf.py
+11. run chromaragchat.py
+from dotenv import load_dotenv
+python chromaragchat.py
+12. run chromachatstreamlit.py
+streamlit run chromachatstreamlit.py
+
+ai,ml,dl
+ann
+llm
+cohere - chatbot
+huggingface
+
+
+
+
+
+
+
+
+

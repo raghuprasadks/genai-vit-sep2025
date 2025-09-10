@@ -1,0 +1,5 @@
+programs/venv/
+programs/.env
+programs/chatbot/.env
+programs/chromadbdemo/chroma/*.bin
+programs/chromadbdemo/chroma/**/*.bin

@@ -1,0 +1,8 @@
+https://nnfs.io/bkr/
+https://nnfs.io/neural_network_animations
+https://playground.tensorflow.org/
+https://poloclub.github.io/transformer-explainer/
+https://www.geeksforgeeks.org/machine-learning/activation-functions-neural-networks/
+https://docs.trychroma.com/docs/overview/getting-started
+https://huggingface.co/docs/hub/spaces-sdks-streamlit
+https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag/
