@@ -1,0 +1,48 @@
+Genai workshop
+
+Agenda:
+1. Introduction to AI,ML,DL,GenAI
+ML-Supervised,UnSupervised,Reinforcement
+scikit-learn
+Linear Regression
+Logistic Regression
+Decision Tree
+SVM
+Deep Learning (DL)
+Neural Network
+ANN - Artificial Neural Network
+CNN - Convolutional Neural Network
+RNN - Recurrent Neural Network
+Natural Language Processing (NLP)
+
+biological neurons
+
+Generative AI - text,poem,image,audio,
+video
+2. Applications of AI
+LM
+LLM
+3. Recap of Python programming
+Google colab
+
+1. Create a Calculator class
+having following methods
+a. add (n1,n2)
+this method should return sum of n1,n2
+b. subtract(n1,n2)
+this method should return difference between n1,n2
+c. multiplication(n1,n2)
+this method should return result of multiplication of  n1,n2
+2. Create mycalci object
+3. With user input call different methods
+which operation you want to perform (+,-,*)
+input number 1
+input number 2
+
+4. Program on machine learning
+linear regression
+classification
+
+
+
+
