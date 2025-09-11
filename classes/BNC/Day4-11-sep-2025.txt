@@ -1,5 +1,4 @@
 Genai workshop
-
 Agenda:
 1. Introduction to AI,ML,DL,GenAI
 ML-Supervised,UnSupervised,Reinforcement
@@ -42,6 +41,20 @@ input number 2
 4. Program on machine learning
 linear regression
 classification
+
+www.kaushalya.tech
+click on git
+repositories
+https://github.com/raghuprasadks/genai-vit-sep2025
+programs
+pythonnml
+1-linearregression
+1_linear_regression.ipynb
+homeprices.csv
+
+genai->pythonml->copy the files
+
+Generate code to demonstrate linear regression using publicly available dataset
 
 
 
