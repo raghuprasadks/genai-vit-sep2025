@@ -6,3 +6,5 @@ https://www.geeksforgeeks.org/machine-learning/activation-functions-neural-netwo
 https://docs.trychroma.com/docs/overview/getting-started
 https://huggingface.co/docs/hub/spaces-sdks-streamlit
 https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag/
+
+https://www.youtube.com/watch?v=IHZwWFHWa-w

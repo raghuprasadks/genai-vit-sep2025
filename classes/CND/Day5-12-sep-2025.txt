@@ -1,0 +1,137 @@
+Agenda:
+1. Recap
+2. Interfacing with  Large Language Models (LLM)
+3. Interfacing with cohere
+4. Building a chatbot using cohere
+python
+visual studio code
+setting path
+virtual environment
+
+Cohere
+1. Signup and login to cohere
+https://cohere.com/
+2. Copy api key
+yGlhFfYaems7Qn25x5DYVa2eS4NiLz6Bzuh5aXyc
+
+import cohere
+
+co = cohere.ClientV2(api_key="<YOUR_API_KEY>")
+
+response = co.chat(
+    messages=[
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "who are you"
+                }
+            ]
+        },
+        {
+            "role": "assistant",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "I am Command, an advanced language model developed by Cohere. I'm designed to assist users by providing thorough and informative responses to a wide range of queries. My primary goal is to help you with your questions and tasks to the best of my abilities.\n\nI can engage in conversations, answer questions, summarize texts, generate creative content, and perform various language-related tasks. My training is based on a vast amount of text data, enabling me to understand and generate human-like responses in multiple languages.\n\nHow can I assist you today? Feel free to ask me anything, and I'll do my best to provide helpful and insightful answers!"
+                }
+            ]
+        }
+    ],
+    temperature=0.3,
+    model="command-a-03-2025",
+)
+
+print(response)
+
+
+
+JSON - Java Script Object Notation
+Java script object
+
+student=[
+{
+"id":1,
+"name":'Ravi',
+"course":'BTech',
+branch:'CSE',
+sem:5,
+address:{houseno:1,street:'1st cross',locality:'Yelahanka newtown'}
+},
+{
+id:2,
+name:'Rekha',
+course:'BTech',
+branch:'CSE',
+sem:5
+},
+
+]
+student.name
+student.address.steet
+
+
+create llmworkshop folder
+
+create coheredemo folder
+open coheredemo in visual studio code
+cmd
+code .
+
+in terminal type following commands
+
+python --version
+python -m venv venv
+pip install cohere
+
+
+streamlit
+https://streamlit.io/playground
+
+pip install streamlit
+pip install python-dotenv
+
+Huggingface.co
+Models
+tasks
+libraries
+datasets
+spacers
+
+step 1
+1. signup and logging to huggingface
+2. projects-chatbot
+download 
+app.py
+requirements.txt
+
+pip install -r requirements.txt
+
+python app.py
+
+click on spacers
+new space
+sirmvitbatch2chatbot
+https://huggingface.co/spaces/raghuprasadks/sirmvitbatch2chatbot
+
+https://huggingface.co/tasks/text-to-image?text=modern+indian+boy
+
+
+https://huggingface.co/tasks/text-to-image
+
+pip install huggingface_hub
+
+https://huggingface.co/tasks/summarization
+
+https://github.com/raghuprasadks/genai-vit-sep2025/tree/main/programs/llm
+4 and 5
+pip install transformers torch
+
+
+
+
+
+
+
+  

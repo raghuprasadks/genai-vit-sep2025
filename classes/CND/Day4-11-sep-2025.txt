@@ -56,6 +56,28 @@ genai->pythonml->copy the files
 
 Generate code to demonstrate linear regression using publicly available dataset
 
+Kaggle - machine learning
+
+Deep Learning
+neural network
+
+Generative AI
+
+Generate code to demonstrate linear regression using publicly available dataset
+
+Step 1 - covert into token - tokenization
+breaking sentence into word/subword
+
+Generate - 90
+code - 10
+to - 2
+demonstrate - 110
+linear- 150
+Step 2 - embedding - converting text into a vector
+[1.6,9.8,4.7]
+
+Step 3 - positional embedding
+cat chased a rat. It sat in a room.
 
 
 
