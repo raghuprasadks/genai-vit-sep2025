@@ -3,7 +3,7 @@ import chromadb
 client = chromadb.PersistentClient()
 
 client.heartbeat()
-collection = client.get_or_create_collection(name="rag_collection")
+collection = client.get_or_create_collection(name="rag_collection_demo")
 
 collection.add(
     ids=["id1", "id2"],

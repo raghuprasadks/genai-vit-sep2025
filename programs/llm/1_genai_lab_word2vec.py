@@ -27,7 +27,7 @@ print("Cleaned Documents:")
 print(documents)
 
 # Step 3: Train the Word2Vec model
-model = Word2Vec(documents, vector_size=5, window=3, min_count=1)
+model = Word2Vec(documents, vector_size=10, window=3, min_count=1)
 
 # Step 4: Vector operations
 vector1 = model.wv['king']

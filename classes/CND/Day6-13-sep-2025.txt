@@ -1,0 +1,42 @@
+Agenda:
+
+recap:
+huggingface
+model
+tasks
+library - transformers
+datasets
+spacers
+
+cohere
+
+
+
+
+1. Retrieval Augmented Generation (RAG)
+Build your custom chatbot
+2. Vector database
+Chromadb
+3. Langchain
+
+embedding - vector embedding
+https://github.com/raghuprasadks/genai-vit-sep2025/tree/main/programs/llm
+1. create llm folder
+open in vs
+python -m venv venv
+
+activate virtual environment
+.\venv\Scripts\activate
+pip install genism numpy
+copy the program under llm from git
+python 1-genai...word2vec.py
+
+run 2 and 3 program
+
+chroma db
+vector database
+programs/chromadbdemo
+chromadbcommands
+https://www.trychroma.com/
+https://docs.trychroma.com/docs/overview/getting-started
+pip install chromadb
